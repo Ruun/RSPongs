@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RSPong",
+			"Path": "..\\Source\\RSPong.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RSPongEditor",
+			"Path": "..\\Source\\RSPongEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
